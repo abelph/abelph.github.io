@@ -3,19 +3,33 @@
 
 I am a Master's student at the University of Texas at Austin completing my degree in Electrical and Computer Engineering. You can find my resume [here](https://abelph.github.io/pdfs/resume.pdf).
 
-## Coursework
+## Experience
 
-- Algorithms
-- Information Security and Privacy
-- Software Architectures
-- Requirements Engineering
-- Software Testing in a Nondeterministic Era
-- Mobile Computing
-- Software Design and Implementation
-- Discrete Mathematics
-- Differential Equations
-- Matrices and Matrix Calculations
-- Unconventional Computation
+### H-E-B
+_Digital Intern_\
+Summers 2020 - 2022
+- Developed point of sale application for store kitchens utilizing Flutter development platform
+- Redesigned older kitchen display system application from the ground up to improve user interface and usability
+- Documented development cycle and proposed improvements to implement in future iterations
+- Constructed REST API to manage orders at store locations using Spring Framework
+- Implemented Kotlin APIs to calculate price and tested API protocols using Mockito and Docker images
+- Created custom cross-platform application’s front end and back end to streamline sprint planning process
+
+### SkillsEngine
+_Quality Assurance Intern_\
+July 2019 - August 2019
+- Detailed protocols and a process for formalizing QA activities within a Heroku application
+- Led efforts on writing test cases and building out QA pipelines during development of online software
+- Participated in a SCRUM and Agile development environment when working with a group of developers
+- Identified defects, tracked issues, and approved modifications to meet customer demands
+- Compiled and presented a report covering existing accessibility issues
+
+### University of Texas at Austin
+_Teaching Assistant_\
+August 2021 - Present
+- Served as adviser for twelve groups of engineering students in entrepreneur senior design
+- Provided guidance on technical problems for hardware and software products
+- Managed members of groups to ensure all projects concluded successfully
 
 ## Skills
 
@@ -64,33 +78,19 @@ I am a Master's student at the University of Texas at Austin completing my degre
 - Adobe Premier
 - Adobe Audition
 
-## Experience
+## Coursework
 
-### H-E-B
-_Digital Intern_\
-Summers 2020 - 2022
-- Developed point of sale application for store kitchens utilizing Flutter development platform
-- Redesigned older kitchen display system application from the ground up to improve user interface and usability
-- Documented development cycle and proposed improvements to implement in future iterations
-- Constructed REST API to manage orders at store locations using Spring Framework
-- Implemented Kotlin APIs to calculate price and tested API protocols using Mockito and Docker images
-- Created custom cross-platform application’s front end and back end to streamline sprint planning process
-
-### SkillsEngine
-_Quality Assurance Intern_\
-July 2019 - August 2019
-- Detailed protocols and a process for formalizing QA activities within a Heroku application
-- Led efforts on writing test cases and building out QA pipelines during development of online software
-- Participated in a SCRUM and Agile development environment when working with a group of developers
-- Identified defects, tracked issues, and approved modifications to meet customer demands
-- Compiled and presented a report covering existing accessibility issues
-
-### University of Texas at Austin
-_Teaching Assistant_\
-August 2021 - Present
-- Served as adviser for twelve groups of engineering students in entrepreneur senior design
-- Provided guidance on technical problems for hardware and software products
-- Managed members of groups to ensure all projects concluded successfully
+- Algorithms
+- Information Security and Privacy
+- Software Architectures
+- Requirements Engineering
+- Software Testing in a Nondeterministic Era
+- Mobile Computing
+- Software Design and Implementation
+- Discrete Mathematics
+- Differential Equations
+- Matrices and Matrix Calculations
+- Unconventional Computation
 
 ## Fun Facts About Me
 - I have a 3d printer which I use to print out small things.
