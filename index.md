@@ -1,20 +1,53 @@
+![](https://abelph.github.io/photos/abelPhoto.jpeg)
 ## About Me
 
-I am a Master's student at the University of Texas at Austin completing my degree in Computer Engineering. You can find my resume [here](https://abelph.github.io/pdfs/resume.pdf).
+I am a Master's student at the University of Texas at Austin completing my degree in Electrical and Computer Engineering. You can find my resume [here](https://abelph.github.io/pdfs/resume.pdf).
 
-## Coursework
+## Experience
 
-- Algorithms
-- Information Security and Privacy
-- Software Architectures
-- Requirements Engineering
-- Software Testing in a Nondeterministic Era
-- Mobile Computing
-- Software Design and Implementation
-- Discrete Mathematics
-- Differential Equations
-- Matrices and Matrix Calculations
-- Unconventional Computation
+### H-E-B
+_Digital Intern_\
+Summers 2020 - 2022
+- Developed point of sale application for store kitchens utilizing Flutter development platform
+- Redesigned older kitchen display system application from the ground up to improve user interface and usability
+- Documented development cycle and proposed improvements to implement in future iterations
+- Constructed REST API to manage orders at store locations using Spring Framework
+- Implemented Kotlin APIs to calculate price and tested API protocols using Mockito and Docker images
+- Created custom cross-platform application’s front end and back end to streamline sprint planning process
+
+### SkillsEngine
+_Quality Assurance Intern_\
+July 2019 - August 2019
+- Detailed protocols and a process for formalizing QA activities within a Heroku application
+- Led efforts on writing test cases and building out QA pipelines during development of online software
+- Participated in a SCRUM and Agile development environment when working with a group of developers
+- Identified defects, tracked issues, and approved modifications to meet customer demands
+- Compiled and presented a report covering existing accessibility issues
+
+### University of Texas at Austin
+_Teaching Assistant_\
+August 2021 - Present
+- Served as adviser for twelve groups of engineering students in entrepreneur senior design
+- Provided guidance on technical problems for hardware and software products
+- Managed members of groups to ensure all projects concluded successfully
+
+## Projects
+
+### [PrequalsK](https://github.com/abelph/PrequalsK)
+**Fall 2021**\
+An improvement to the project SequalsK, a bidirectional tool that transpiles Kotlin and Swift code. Our project allows for the tool to now transpile test cases from either language.
+
+### [Unibloom](https://github.com/abelph/unibloom-api)
+**Fall 2020 - Spring 2021**\
+A Flutter app that manages and optimizes schedules and tasks. It utilized a Spring Boot API built in Kotlin for its back end.
+
+### Company Security Policy
+**Spring 2020**\
+We authored a report for a company covering data inventory; information valuation; and vulnerabilities and risks. We also developed access controls and an incident response plan to protect data during a security breach.
+
+### Messaging Application
+**Spring 2019**\
+I programmed a Java chat application that allowed for communication between several computers. It employed internet protocols, a GUI, writers, servers, multithreading, and encryption to facilitate transfer of messages.
 
 ## Skills
 
@@ -46,6 +79,7 @@ I am a Master's student at the University of Texas at Austin completing my degre
 - Software Design
 - Data Structures
 - Software Testing
+- Information Security
 
 ### Technologies
 
@@ -55,6 +89,8 @@ I am a Master's student at the University of Texas at Austin completing my degre
 - Docker
 - Maven
 - Gradle
+- Flutter
+- Android
 - Selenium
 - MongoDB
 - Google Cloud Platform
@@ -63,32 +99,21 @@ I am a Master's student at the University of Texas at Austin completing my degre
 - Adobe Premier
 - Adobe Audition
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Coursework
 
-```markdown
-Syntax highlighted code block
+- Algorithms
+- Information Security and Privacy
+- Software Architectures
+- Requirements Engineering
+- Software Testing in a Nondeterministic Era
+- Mobile Computing
+- Software Design and Implementation
+- Discrete Mathematics
+- Differential Equations
+- Matrices and Matrix Calculations
+- Unconventional Computation
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abelph/abelph.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Fun Facts About Me
+- I have a 3d printer which I use to print out small things.
+- I love movies! I watch them so often I had to get a season pass at Alamo Drafthouse.
+- I can do a wide variety of voices and strange accents.
