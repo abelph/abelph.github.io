@@ -41,7 +41,7 @@ An improvement to the project SequalsK, a bidirectional tool that transpiles Kot
 **Fall 2020 - Spring 2021**\
 A Flutter app that manages and optimizes schedules and tasks. It utilized a Spring Boot API built in Kotlin for its back end.
 
-### Company Security Policy
+### [Company Security Policy](https://abelph.github.io/pdfs/SecurityPolicy.pdf)
 **Spring 2020**\
 We authored a report for a company covering data inventory; information valuation; and vulnerabilities and risks. We also developed access controls and an incident response plan to protect data during a security breach.
 
