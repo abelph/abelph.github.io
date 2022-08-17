@@ -42,7 +42,12 @@ An improvement to the project SequalsK, a bidirectional tool that transpiles Kot
 A Flutter app that manages and optimizes schedules and tasks. It utilized a Spring Boot API built in Kotlin for its back end.
 
 ### Company Security Policy
-**Spring 2020**
+**Spring 2020**\
+We authored a report for a company covering data inventory; information valuation; and vulnerabilities and risks. We also developed access controls and an incident response plan to protect data during a security breach.
+
+### Messaging Application
+**Spring 2019**\
+I programmed a Java chat application that allowed for communication between several computers. It employed internet protocols, a GUI, writers, servers, multithreading, and encryption to facilitate transfer of messages.
 
 ## Skills
 
@@ -74,6 +79,7 @@ A Flutter app that manages and optimizes schedules and tasks. It utilized a Spri
 - Software Design
 - Data Structures
 - Software Testing
+- Information Security
 
 ### Technologies
 
