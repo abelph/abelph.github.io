@@ -4,8 +4,8 @@ I am a Master's student at the University of Texas at Austin completing my degre
 
 ## Coursework
 
--Mobile Testing
--Differential Equations
+- Mobile Testing
+- Differential Equations
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
