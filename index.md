@@ -31,6 +31,18 @@ August 2021 - Present
 - Provided guidance on technical problems for hardware and software products
 - Managed members of groups to ensure all projects concluded successfully
 
+## Projects
+
+### (PrequalsK)[https://github.com/abelph/PrequalsK]
+**Fall 2021**\
+An improvement to the project SequalsK, a bidirectional tool that transpiles Kotlin and Swift code. Our project allows for the tool to now transpile test cases from either language.
+
+### Unibloom
+**Fall 2020 - Spring 2021**\
+A Flutter app that manages and optimizes schedules and tasks. It utilized a Spring Boot API built in Kotlin for its back end.
+
+### Company Security Policy Project
+
 ## Skills
 
 ### Languages
@@ -70,6 +82,8 @@ August 2021 - Present
 - Docker
 - Maven
 - Gradle
+- Flutter
+- Android
 - Selenium
 - MongoDB
 - Google Cloud Platform
@@ -96,33 +110,3 @@ August 2021 - Present
 - I have a 3d printer which I use to print out small things.
 - I love movies! I watch them so often I had to get a season pass at Alamo Drafthouse.
 - I can do a wide variety of voices and strange accents.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abelph/abelph.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
