@@ -33,9 +33,10 @@ August 2021 - Present
 
 ## Projects
 
-### (PrequalsK)[https://github.com/abelph/PrequalsK]
+### PrequalsK
 **Fall 2021**\
-An improvement to the project SequalsK, a bidirectional tool that transpiles Kotlin and Swift code. Our project allows for the tool to now transpile test cases from either language.
+An improvement to the project SequalsK, a bidirectional tool that transpiles Kotlin and Swift code. Our project allows for the tool to now transpile test cases from either language.\
+Find it (here)[https://github.com/abelph/PrequalsK].
 
 ### Unibloom
 **Fall 2020 - Spring 2021**\
