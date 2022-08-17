@@ -90,7 +90,7 @@ I programmed a Java chat application that allowed for communication between seve
 - Maven
 - Gradle
 - Flutter
-- Android
+- Android Studio
 - Selenium
 - MongoDB
 - Google Cloud Platform
