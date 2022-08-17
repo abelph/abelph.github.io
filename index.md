@@ -67,7 +67,8 @@ I am a Master's student at the University of Texas at Austin completing my degre
 ## Experience
 
 ### H-E-B
-_Digital Intern_  Summers 2020 - 2022
+_Digital Intern_ 
+Summers 2020 - 2022
 - Developed point of sale application for store kitchens utilizing Flutter development platform
 - Redesigned older kitchen display system application from the ground up to improve user interface and usability
 - Documented development cycle and proposed improvements to implement in future iterations
@@ -76,7 +77,8 @@ _Digital Intern_  Summers 2020 - 2022
 - Created custom cross-platform application’s front end and back end to streamline sprint planning process
 
 ### SkillsEngine
-_Quality Assurance Intern_  July 2019 - August 2019
+_Quality Assurance Intern_ 
+July 2019 - August 2019
 - Detailed protocols and a process for formalizing QA activities within a Heroku application
 - Led efforts on writing test cases and building out QA pipelines during development of online software
 - Participated in a SCRUM and Agile development environment when working with a group of developers
@@ -84,7 +86,8 @@ _Quality Assurance Intern_  July 2019 - August 2019
 - Compiled and presented a report covering existing accessibility issues
 
 ### University of Texas at Austin
-_Teaching Assistant_  August 2021 - Present
+_Teaching Assistant_
+August 2021 - Present
 - Served as adviser for twelve groups of engineering students in entrepreneur senior design
 - Provided guidance on technical problems for hardware and software products
 - Managed members of groups to ensure all projects concluded successfully
