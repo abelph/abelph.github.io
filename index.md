@@ -4,8 +4,64 @@ I am a Master's student at the University of Texas at Austin completing my degre
 
 ## Coursework
 
-- Mobile Testing
+- Algorithms
+- Information Security and Privacy
+- Software Architectures
+- Requirements Engineering
+- Software Testing in a Nondeterministic Era
+- Mobile Computing
+- Software Design and Implementation
+- Discrete Mathematics
 - Differential Equations
+- Matrices and Matrix Calculations
+- Unconventional Computation
+
+## Skills
+
+### Languages
+
+- Kotlin
+- Java
+- Python
+- C++
+- C
+- Dart
+- SQL
+- JavaScript
+- HTML
+- CSS
+- MATLAB
+- ARM Assembly
+- Solidity
+
+### Concepts
+
+- UML
+- GUI
+- REST API
+- SCRUM
+- Agile
+- Multithreading
+- Encryption
+- Software Design
+- Data Structures
+- Software Testing
+
+### Technologies
+
+- Git
+- Spring Boot
+- Mockito
+- Docker
+- Maven
+- Gradle
+- Selenium
+- MongoDB
+- Google Cloud Platform
+- PostgresSQL
+- Microsoft Office Suite
+- Adobe Premier
+- Adobe Audition
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
