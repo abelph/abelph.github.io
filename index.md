@@ -1,7 +1,7 @@
 ![](https://abelph.github.io/photos/abelPhoto.jpeg)
 ## About Me
 
-I am a Master's student at the University of Texas at Austin completing my degree in Computer Engineering. You can find my resume [here](https://abelph.github.io/pdfs/resume.pdf).
+I am a Master's student at the University of Texas at Austin completing my degree in Electrical and Computer Engineering. You can find my resume [here](https://abelph.github.io/pdfs/resume.pdf).
 
 ## Coursework
 
@@ -91,6 +91,11 @@ August 2021 - Present
 - Served as adviser for twelve groups of engineering students in entrepreneur senior design
 - Provided guidance on technical problems for hardware and software products
 - Managed members of groups to ensure all projects concluded successfully
+
+## Fun Facts About Me
+- I have a 3d printer which I use to print out small things.
+- I love movies! I watch them so often I had to get a season pass at Alamo Drafthouse.
+- I can do a wide variety of voices and strange accents.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
