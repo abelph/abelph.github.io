@@ -47,7 +47,7 @@ We authored a report for a company covering data inventory; information valuatio
 
 ### [iDSpeedy](https://github.com/abelph/iDSpeedy)
 **Fall 2020**\
-An improvement to the tool iDFlakies that allows it to run faster. The tool detects "flaky" tests in open-source Java projects. To learn more about iDFlakies and flaky tests you can read the original paper [here](https://mir.cs.illinois.edu/winglam/publications/2019/LamETAL19iDFlakies.pdf).
+An improvement to the tool iDFlakies that allows it to run faster. The tool detects "flaky" tests in open-source Java projects. The results of our experiment are detailed [here](https://abelph.github.io/pdfs/iDSpeedy-FinalPaper.pdf). To learn more about iDFlakies and flaky tests you can read the original paper [here](https://mir.cs.illinois.edu/winglam/publications/2019/LamETAL19iDFlakies.pdf).
 
 ### Messaging Application
 **Spring 2019**\
