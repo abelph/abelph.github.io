@@ -45,6 +45,10 @@ A Flutter app that manages and optimizes schedules and tasks. It utilized a Spri
 **Spring 2020**\
 We authored a report for a company covering data inventory; information valuation; and vulnerabilities and risks. We also developed access controls and an incident response plan to protect data during a security breach.
 
+### [iDSpeedy](https://github.com/abelph/iDSpeedy)
+**Fall 2020**\
+An improvement to the tool iDFlakies that allows it to run faster. The tool detects "flaky" tests in open-source Java projects. To learn more about iDFlakies and flaky tests you can read the original paper [here](https://mir.cs.illinois.edu/winglam/publications/2019/LamETAL19iDFlakies.pdf).
+
 ### Messaging Application
 **Spring 2019**\
 I programmed a Java chat application that allowed for communication between several computers. It employed internet protocols, a GUI, writers, servers, multithreading, and encryption to facilitate transfer of messages.
@@ -114,6 +118,6 @@ I programmed a Java chat application that allowed for communication between seve
 - Unconventional Computation
 
 ## Fun Facts About Me
-- I have a 3d printer which I use to print out small things.
+- I know a lot about microphones. I also do quite a bit of audio editing.
 - I love movies! I watch them so often I had to get a season pass at Alamo Drafthouse.
 - I can do a wide variety of voices and strange accents.
