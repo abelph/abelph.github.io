@@ -106,15 +106,18 @@ I programmed a Java chat application that allowed for communication between seve
 ## Coursework
 
 - Algorithms
+- Distributed Systems
 - Information Security and Privacy
 - Software Architectures
 - Requirements Engineering
 - Software Testing in a Nondeterministic Era
+- Complex Networks in the Real World
 - Mobile Computing
 - Software Design and Implementation
 - Discrete Mathematics
 - Differential Equations
 - Matrices and Matrix Calculations
+- Blockchain Solutions and Developing Smart Contracts
 - Unconventional Computation
 
 ## Fun Facts About Me
