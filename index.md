@@ -1,7 +1,7 @@
 ![](https://abelph.github.io/photos/abelPhoto.jpeg)
 ## About Me
 
-I am a Master's student at the University of Texas at Austin completing my degree in Electrical and Computer Engineering. You can find my resume [here](https://abelph.github.io/pdfs/resume.pdf).
+I am a Software Engineer at Raytheon Missiles & Defense. I was previously a Master's student at the University of Texas at Austin, where I completed my degree in Electrical and Computer Engineering. You can find my resume [here](https://abelph.github.io/pdfs/resume.pdf).
 
 ## Experience
 
