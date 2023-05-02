@@ -37,7 +37,7 @@ August 2021 - Present
 **Fall 2021**\
 An improvement to the project SequalsK, a bidirectional tool that transpiles Kotlin and Swift code. Our project allows for the tool to now transpile test cases from either language.
 
-### [Unibloom](https://github.com/abelph/unibloom-api)
+### Unibloom
 **Fall 2020 - Spring 2021**\
 A Flutter app that manages and optimizes schedules and tasks. It utilized a Spring Boot API built in Kotlin for its back end.
 
