@@ -124,3 +124,4 @@ I programmed a Java chat application that allowed for communication between seve
 - I know a lot about microphones. I also do quite a bit of audio editing.
 - I love movies! I watch them so often I had to get a season pass at Alamo Drafthouse.
 - I can do a wide variety of voices and strange accents.
+
